@@ -30,7 +30,7 @@ int main(int argc, char* argv[]) {
     return 0;
 }
 
-// 打印用法信息
+
 void print_usage() {
     printf("Usage: WordCount [-c|-w] filename\n");
     printf("\t-c: count characters\n");
